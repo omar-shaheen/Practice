@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss"],"names":[],"mappings":"AAAA,eAEI,mBAAa,CAAb,mBAAa,CAAb,YAAa,CACb,+BAAwB,CAAxB,uBAAwB,CACxB,2CAA0B,CAA1B,mCAAoC","file":"main.css","sourcesContent":[".parent {\r\n  .child {\r\n    display: flex;\r\n    transition: all .5s ease;\r\n    transform: rotate(360deg) scale(1.1);\r\n  }\r\n}"]}
